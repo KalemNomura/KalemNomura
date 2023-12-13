@@ -11,7 +11,7 @@
 - Discord Theme Maker
 - VS Code theme Maker
 
-###
+---
 
 ###  Skills
 
@@ -29,7 +29,7 @@
 <img align="left" alt="Canva" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="AfterEfects" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 
----
+
 
 <!-- 
    <img align="left" alt="" width="30px" style="padding-right:10px" src=""/>
@@ -44,8 +44,8 @@ Contact me in
 <!--
 Code Stats
 -->
-
-###
+#
+---
 
 ### General Stats
 
