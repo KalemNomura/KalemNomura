@@ -50,3 +50,8 @@ Code Stats
 ### General Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalemNomura&show_icons=true&theme=tokyonight&text_color=a81cba&locale=en" alt="kalemNomurastats" /></p>
+
+<br>
+
+<details>
+ <summary><h3>My Small Coding Journey</h3></summary>
