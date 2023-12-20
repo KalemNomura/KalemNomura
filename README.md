@@ -9,7 +9,7 @@
 - Trying to edit too many Photos
 - Avid Language enjoyer (Polyglot)
 - Discord Theme Maker
-- VS Code theme Maker
+- VS Code Theme Maker
 
 ---
 
