@@ -1,6 +1,6 @@
 <img width="900px" src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif"/>
 
-# Kalem Nomura "[LV5] Programmer" 
+# Kalem Nomura " Newbie " 
 
 **'Avarage Asian Student (Developer/Photographer/Athlete)'**
 
