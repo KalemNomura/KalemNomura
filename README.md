@@ -55,6 +55,4 @@ Code Stats
 
 <details>
  <summary><h3>My Small Coding Journey</h3></summary>
-
- hello
- 
+Growing up, I was immersed in video games, starting with the DS, Wii, and eventually exploring other consoles. Witnessing how a few lines of code could evolve into games I loved sparked my curiosity to create something myself. I began with CodeCombat’s kids program, then moved on to developing mods for games like Baldur’s Gate 3 and Minecraft. Now, I’m expanding my skills by studying multiple programming languages and mastering various tools, including VS Code, Eclipse, and IntelliJ.
