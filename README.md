@@ -2,7 +2,7 @@
 
 # 👋 Hi My Name's Kalem Nice to Meet You 
 
-**'Avarage Asian Student (Developer/Photographer/Athlete)'**
+**'Avarage Student (Developer/Photographer/Athlete)'**
 
 - In the journey of learning
 - Working on too many Projects 
