@@ -2,7 +2,7 @@
 
 # 👋 Hi, My Name's Kalem Nice to Meet You 
 
-**'Student in CS (Developer/Photographer/Athlete)'**
+**'CS Student (Developer/Photographer/Athlete)'**
 
 - In the journey of learning
 - Working on too many Projects 
